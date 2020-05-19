@@ -1,0 +1,5 @@
+{
+  "bamstatsWorkflow.bamstats.bam_input": "/home/ubuntu/repos/dockstore-tool-bamstats/bamstats/NA12878_wgs_20.bam",
+  "bamstatsWorkflow.bamstats.mem_gb": "4"
+}
+
