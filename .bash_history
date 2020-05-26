@@ -43,3 +43,8 @@ ls bamstats_report.zip
 rm bamstats_report.zip 
 ls
 exit
+cd /home/ubuntu
+ls
+/usr/local/bin/bamstats 4 rna.SRR948778.bam 
+ls
+exit
