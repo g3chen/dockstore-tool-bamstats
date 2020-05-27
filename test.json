@@ -1,5 +1,5 @@
 {
-  "bamstatsWorkflow.bamstats.bam_input": "/home/ubuntu/repos/dockstore-tool-bamstats/rna.SRR948778.bam",
-  "bamstatsWorkflow.bamstats.mem_gb": "4"
+  "bamstatsWorkflow.mem_gb": "4",
+  "bamstatsWorkflow.bam_input": "/home/ubuntu/repos/dockstore-tool-bamstats/rna.SRR948778.bam"
 }
 
